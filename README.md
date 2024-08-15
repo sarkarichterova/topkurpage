@@ -1,71 +1,27 @@
-# topkurpage
+# Privacy Policy
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 0;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: #fff;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        h1 {
-            text-align: center;
-        }
-        p {
-            margin: 1em 0;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Privacy Policy</h1>
-        <p>
-            This privacy policy explains how our application handles user data and ensures that the data is only used to make the work of employees easier and more efficient.
-        </p>
-        
-        <h2>Data Collection and Usage</h2>
-        <p>
-            Our application may collect certain data that is necessary for its functionality, such as user identification, device information, and work-related data. This information is strictly used for:
-        </p>
-        <ul>
-            <li>Improving work efficiency and productivity for employees.</li>
-            <li>Streamlining work processes and tasks.</li>
-            <li>Providing relevant notifications and updates related to work.</li>
-        </ul>
+This privacy policy explains how our application handles user data and ensures that the data is only used to make the work of employees easier and more efficient.
 
-        <h2>Data Security</h2>
-        <p>
-            We prioritize the security of user data and take necessary measures to protect it from unauthorized access or misuse. The data collected is stored securely and is not shared with third parties without explicit consent.
-        </p>
+## Data Collection and Usage
 
-        <h2>User Control and Rights</h2>
-        <p>
-            Users have the right to request access to, correction of, or deletion of their data. If you have any concerns regarding the handling of your data, please contact us.
-        </p>
+Our application may collect certain data that is necessary for its functionality, such as user identification, device information, and work-related data. This information is strictly used for:
 
-        <h2>Changes to This Policy</h2>
-        <p>
-            We may update this privacy policy from time to time. Any changes will be reflected on this page, and users will be notified of significant changes.
-        </p>
+- Improving work efficiency and productivity for employees.
+- Streamlining work processes and tasks.
+- Providing relevant notifications and updates related to work.
 
-        <h2>Contact Us</h2>
-        <p>
-            If you have any questions or concerns about this privacy policy, please contact us at: <strong>contact@yourcompany.com</strong>
-        </p>
-    </div>
-</body>
-</html>
+## Data Security
+
+We prioritize the security of user data and take necessary measures to protect it from unauthorized access or misuse. The data collected is stored securely and is not shared with third parties without explicit consent.
+
+## User Control and Rights
+
+Users have the right to request access to, correction of, or deletion of their data. If you have any concerns regarding the handling of your data, please contact us.
+
+## Changes to This Policy
+
+We may update this privacy policy from time to time. Any changes will be reflected on this page, and users will be notified of significant changes.
+
+## Contact Us
+
+If you have any questions or concerns about this privacy policy, please contact us at: **contact@yourcompany.com**
